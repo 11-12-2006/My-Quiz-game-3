@@ -1,1 +1,1 @@
-# QuizContest2
+# Quiz
